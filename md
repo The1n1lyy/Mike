@@ -1,13 +1,10 @@
-md 1 file
-jdbgusdhg
-dsgndsiogh
-dsgsdighio
-
-Change made using change-1 branch
-change made from change-2 branch
-Change made directly from Github
-
-Adding this new line again
-
-
-making this changes in branch
+This is line 1
+This is line 2
+This is line 3
+This is line 4
+This is line 5
+This is line 6
+This is line 7
+This is line 8
+This is line 9
+This is line 10
